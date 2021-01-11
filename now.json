@@ -2,7 +2,7 @@
     "version": 2,
     "name": "disqusjs-proxy",
     "alias": [
-        "disqusjs.haomwei.com"
+        "comments.haomwei.com"
     ],
     "routes": [
         {
